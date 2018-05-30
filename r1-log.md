@@ -1,10 +1,17 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [THIYAGARAJAN]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [MAY 29, 2017].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+
+Day 1: MAY 29, 2018 
+
+Today's Progress: WORKING ON HTML-CSS-JQUERY PROJECT (TRIBUTE TO STEPHEN HAWKING)
+
+Thoughts: still need to focus on html5 , css3 ,would Like to work harder than as much as I can!
+
+Link to work: https://codepen.io/THIYAGU22/pen/aKoVWW
 
 ### R1D2
