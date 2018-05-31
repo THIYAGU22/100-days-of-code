@@ -23,4 +23,12 @@ Thoughts: working with in-depth of css grid layout , responsive image , and posi
 
 Link to work: https://codepen.io/THIYAGU22/pen    https://codepen.io/THIYAGU22/pen/zaxwEe   https://codepen.io/THIYAGU22/pen/gKbPQO
 
-### R1D2
+### R1D3
+
+### Day 3: MAY 31, 2018 
+
+Today's Progress: LEARNT FLEX BOX in css ( positioning items , justify content , self align , flex wrap , order , flex grow , flex shrink , flex basis
+
+Thoughts: through css grids and flex box , designs will be productive , still there are lots to learn enough !
+
+Link to work: https://codepen.io/THIYAGU22/pen/XYbard  https://codepen.io/THIYAGU22/pen/jKPwBv  https://codepen.io/THIYAGU22/pen/VdLpBG
