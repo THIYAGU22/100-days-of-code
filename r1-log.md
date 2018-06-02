@@ -34,6 +34,9 @@ Thoughts: through css grids and flex box , designs will be productive , still th
 Link to work: https://codepen.io/THIYAGU22/pen/XYbard  https://codepen.io/THIYAGU22/pen/jKPwBv  https://codepen.io/THIYAGU22/pen/VdLpBG
 
 
+
+
+
 ### R1D4 Day 4: JUNE 01, 2018 
 
 Today's Progress: WORKED WITH BOOTSTRAPS COLUMNS,RESPONSIVE NAVBARS, MODALS,FORMS
@@ -42,4 +45,14 @@ Thoughts: Investing time in knowlegde is the real value , we can customise every
 
 Link to work: https://codepen.io/THIYAGU22/pen/Yvyqrb
 	      https://codepen.io/THIYAGU22/pen/xzwGGW  https://codepen.io/THIYAGU22/pen/NzGWyM
+
+### Day 5: JUNE 02, 2018
+Today's Progress: worked with cards, and link groups in bootstrap 4
+
+Thoughts: we can customsise everything using bs4
+
+Link to work: https://codepen.io/THIYAGU22/pen/aKvKKj
+https://codepen.io/THIYAGU22/pen/aKvKKj
+
+	      
 
