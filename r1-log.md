@@ -55,4 +55,9 @@ Link to work: https://codepen.io/THIYAGU22/pen/aKvKKj
 https://codepen.io/THIYAGU22/pen/aKvKKj
 
 	      
+### Day 6: JUNE 04, 2018
+Today's progress : learnt alerts and responsive dropdown bars in bootstrap 4
+
+Thoughts: we can customsise everything using bs4
+
 
