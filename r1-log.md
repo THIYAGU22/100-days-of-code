@@ -60,4 +60,9 @@ Today's progress : learnt alerts and responsive dropdown bars in bootstrap 4
 
 Thoughts: we can customsise everything using bs4
 
+### Day 7: JUNE 05, 2018
+Today's progress : learnt css (applied visual design topics) in freecodecamp , completed all the excercises
+
+Thoughts: Through css , one can identify the potential of creativity
+
 
