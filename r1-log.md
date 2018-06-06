@@ -65,4 +65,10 @@ Today's progress : learnt css (applied visual design topics) in freecodecamp , c
 
 Thoughts: Through css , one can identify the potential of creativity
 
+### Day 8: JUNE 06, 2018
+
+Today's progress : learnt css (css grids, flexboxes , applied accessibility ) in freecodecamp,completed all the excercises
+
+Thoughts: wrapped the basics , now its time to hover the projects
+
 
