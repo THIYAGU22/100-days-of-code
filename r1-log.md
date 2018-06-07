@@ -72,3 +72,11 @@ Today's progress : learnt css (css grids, flexboxes , applied accessibility ) in
 Thoughts: wrapped the basics , now its time to hover the projects
 
 
+### Day 9:JUNE 07, 2018 
+
+Today's Progress: WORKED WITH 2 PROJECTS , TRIBUTE PROJECT (REBUILDED ) AND WORKED WITH SURVEY SITE PROJECT
+
+Thoughts: ALL THE CONTENTS WERE ADDED IN THE PROJECT , STILL NEEDS TO FOCUS ON RESPONSIVENESS AND DESIGN TOMMO!
+
+Link to work:https://codepen.io/THIYAGU22/pen/oyzQGy  https://codepen.io/THIYAGU22/pen/aKoVWW
+
