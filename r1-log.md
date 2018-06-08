@@ -80,3 +80,11 @@ Thoughts: ALL THE CONTENTS WERE ADDED IN THE PROJECT , STILL NEEDS TO FOCUS ON R
 
 Link to work:https://codepen.io/THIYAGU22/pen/oyzQGy  https://codepen.io/THIYAGU22/pen/aKoVWW
 
+
+### Day 9:JUNE 07, 2018 
+
+Today's Progress: WORKED WITH survey site project and completed
+
+Thoughts: learnt that learning is a life-long learning process , got crazy about the backend development
+
+Link to work:https://codepen.io/THIYAGU22/pen/oyzQGy  
