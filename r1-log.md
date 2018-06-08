@@ -81,7 +81,7 @@ Thoughts: ALL THE CONTENTS WERE ADDED IN THE PROJECT , STILL NEEDS TO FOCUS ON R
 Link to work:https://codepen.io/THIYAGU22/pen/oyzQGy  https://codepen.io/THIYAGU22/pen/aKoVWW
 
 
-### Day 9:JUNE 07, 2018 
+### Day 10:JUNE 08, 2018 
 
 Today's Progress: WORKED WITH survey site project and completed
 
