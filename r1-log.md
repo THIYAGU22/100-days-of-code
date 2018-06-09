@@ -88,3 +88,12 @@ Today's Progress: WORKED WITH survey site project and completed
 Thoughts: learnt that learning is a life-long learning process , got crazy about the backend development
 
 Link to work:https://codepen.io/THIYAGU22/pen/oyzQGy  
+
+### Day 11:JUNE 08, 2018 
+
+Today's Progress: worked with landing page project , still not yet over , will work slowly
+
+Thoughts: learning small things also takes time
+
+Link to work:https://codepen.io/THIYAGU22/pen/JZEYrJ
+
