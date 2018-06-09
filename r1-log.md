@@ -89,7 +89,7 @@ Thoughts: learnt that learning is a life-long learning process , got crazy about
 
 Link to work:https://codepen.io/THIYAGU22/pen/oyzQGy  
 
-### Day 11:JUNE 08, 2018 
+### Day 11:JUNE 09, 2018 
 
 Today's Progress: worked with landing page project , still not yet over , will work slowly
 
