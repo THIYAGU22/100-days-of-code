@@ -97,3 +97,11 @@ Thoughts: learning small things also takes time
 
 Link to work:https://codepen.io/THIYAGU22/pen/JZEYrJ
 
+### day 12 : JUNE 10, 2018 
+
+Today's Progress: today my college conducted a hackathon, and I ve participated in that and coded 7 hrs continously 
+
+Thoughts: how to code for long hours with good internet connection? 
+
+
+
