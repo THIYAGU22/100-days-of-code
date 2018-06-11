@@ -103,5 +103,11 @@ Today's Progress: today my college conducted a hackathon, and I ve participated 
 
 Thoughts: how to code for long hours with good internet connection? 
 
+### day 13; June 11,2018
+
+Today's progress : worked with product landing page project
+
+Thoughts : today learnt that " hurry makes you worry" won't rush up here afterwards 
+
 
 
