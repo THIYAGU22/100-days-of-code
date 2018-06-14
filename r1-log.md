@@ -109,5 +109,16 @@ Today's progress : worked with product landing page project
 
 Thoughts : today learnt that " hurry makes you worry" won't rush up here afterwards 
 
+### day 14 : June 12,2018
+
+Today's progress : worked with product landing page project( made cardview in bootstrap4 )
+
+Thoughts : A small piece of work can also makes you wise
+
+### day 15 : June 13,2018
+
+Today's progress :learnt javascript basics ( data types , variables , conditionals )in udacity course , and enrolled javascript essentials course on udemy
+
+Thoughts : how to maintain the progress in wise manner?
 
 
