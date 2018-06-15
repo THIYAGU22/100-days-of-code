@@ -122,3 +122,10 @@ Today's progress :learnt javascript basics ( data types , variables , conditiona
 Thoughts : how to maintain the progress in wise manner?
 
 
+### day 16 : June 15,2018
+
+Today's progress :learnt javascript basics ( conditionals , loops , functions )in udacity course 
+
+Thoughts : will wrap up and would love to solve the challenges provided by udacity
+
+
