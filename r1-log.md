@@ -128,9 +128,15 @@ Today's progress :learnt javascript basics ( conditionals , loops , functions )i
 
 Thoughts : will wrap up and would love to solve the challenges provided by udacity
 
-### Day 16 : june 16 , 2018
+### Day 17 : june 16 , 2018
 
 Today's progress :learnt javascript basics ( functions,arrays )in udacity course 
 
 Thoughts : will wrap up and would love to solve the challenges , only we can grow when we face challenges
+
+### Day 18 : june 17 , 2018
+
+Today's progress :learnt javascript basics (arrays,objects )in udacity course 
+
+Thoughts : though completed js basics , how can i deep dive into interacting...question inside my head!
 
