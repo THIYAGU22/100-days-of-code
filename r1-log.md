@@ -140,3 +140,11 @@ Today's progress :learnt javascript basics (arrays,objects )in udacity course
 
 Thoughts : though completed js basics , how can i deep dive into interacting...question inside my head!
 
+### Day 19 : june 19 , 2018
+
+Today's progress : after completion of udacity course ,I ve recalled te projects "product landing page project " andd completed
+
+Thoughts : still 2 more projects to go !
+ 
+ link : https://codepen.io/THIYAGU22/full/JZEYrJ
+
