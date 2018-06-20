@@ -147,4 +147,12 @@ Today's progress : after completion of udacity course ,I ve recalled te projects
 Thoughts : still 2 more projects to go !
  
  link : https://codepen.io/THIYAGU22/full/JZEYrJ
+ 
+ ### Day 20 : june 20 , 2018
+
+Today's progress : hosted my project landing page for my bro account and learnt oveview of css preprocessors
+
+Thoughts : css processors will save the codde
+ 
+
 
