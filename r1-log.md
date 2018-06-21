@@ -154,5 +154,9 @@ Today's progress : hosted my project landing page for my bro account and learnt 
 
 Thoughts : css processors will save the codde
  
+ ### Day 21 : june 21 , 2018
 
+Today's progress :learnt the website performance and organization from yahoo technical documentation page
+
+Thoughts : We can learn everything until we have a desire to innovate!
 
